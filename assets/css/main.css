@@ -5,3 +5,11 @@ nav {
 nav a {
     color: #333333 !important;
 }
+
+.nav-socials i {
+    font-size: 1.25em;
+}
+nav .brand-logo {
+    font-size: 2em;
+    font-weight: 300;
+}
