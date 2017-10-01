@@ -1,3 +1,7 @@
-.test-header {
-    height:500px;
+nav {
+    background-color: #EEEEEE !important;
+}
+
+nav a {
+    color: #333333 !important;
 }
