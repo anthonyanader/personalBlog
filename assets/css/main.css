@@ -20,26 +20,12 @@ nav .brand-logo {
 /***********************
         HEADER
 ***********************/
-#intro-name{
-    font-size:3.5vw !important;
-    font-weight: 300;
-}
-.intro-image {
-    background-image:url("../img/heroSplashHeader1.jpg");
-    background-size:cover;
-    position:relative;
-    height:60vh;
-}
-.intro-text {
-    position:absolute;
-    top:50%;
-    text-align:center;
-    width:100%;
-    color:#fff;
-    font-size:1;
-    -ms-transform: translate(0,-50%); /* IE 9 */
-        -webkit-transform: translate(0,-50%); /* Safari */
-        transform: translate(0,-50%);
+.header-image {
+    background-image: url("../img/heroSplashHeader1.jpg");
+    padding-top: 5px;
+    background-repeat: no-repeat;
+    height: 75vh;
+    background-size: cover;
 }
 .blog-content-preview {
     height: 1000px;
