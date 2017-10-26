@@ -27,6 +27,12 @@ nav .brand-logo {
     height: 75vh;
     background-size: cover;
 }
+.head-text {
+    color: #EEEEEE;
+    font-weight: 300;
+    margin-top: 10%;
+}
+
 .blog-content-preview {
     height: 1000px;
 }
