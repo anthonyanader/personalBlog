@@ -36,3 +36,12 @@ nav .brand-logo {
 .blog-content-preview {
     height: 1000px;
 }
+
+/***********************
+        GENERAL
+***********************/
+.lead {
+    font-family: Lato;
+    font-weight: light;
+
+}
