@@ -7,12 +7,18 @@ nav {
 nav a {
     color: #333333 !important;
 }
-.nav-socials i {
+nav .nav-socials {
+    margin-right: -10%;
+}
+nav .nav-socials i {
     font-size: 1.25em;
 }
 nav .brand-logo {
     font-size: 2em;
     font-weight: 300;
+}
+nav .nav-links {
+    margin-left: -10%;
 }
 .navbar-fixed {
     z-index: 9999;
@@ -20,17 +26,9 @@ nav .brand-logo {
 /***********************
         HEADER
 ***********************/
-.header-image {
-    background-image: url("../img/heroSplashHeader1.jpg");
-    padding-top: 5px;
-    background-repeat: no-repeat;
-    height: 75vh;
-    background-size: cover;
-}
 .head-text {
-    color: #EEEEEE;
+    color: #22313F;
     font-weight: 300;
-    margin-top: 10%;
 }
 
 .blog-content-preview {
@@ -45,3 +43,6 @@ nav .brand-logo {
     font-weight: light;
 
 }
+/***********************
+        BLOG
+***********************/

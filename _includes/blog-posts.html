@@ -1,26 +1,27 @@
 <!-- Blog HTML -->
 <section id="blog">
-    <div class="row">
-      <div class="col s12 m7">
-
-        <!-- Blog Post -->
-        {% for post in site.posts %}
-        <div class="card">
-          <div class="card-image">
-            {% if post.image %}
-            <img class="img-responsive" src="{{ post.image }}" alt="{{ post.title}}">
-            {% endif %}
-            <span class="card-title">{{ post.title }}</span>
-          </div>
-          <div class="card-content">
-            <p>{{ post.excerpt}}</p>
-            <p>by {{ post.author }}</p>
-          </div>
-          <div class="card-action">
-            <a href="{{ post.url }}">Read</a>
+    <div class="container">
+        <div class="row">
+          <div class="col s12">
+            <!-- Blog Post -->
+            {% for post in site.posts %}
+            <div class="card">
+              <div class="card-image">
+                {% if post.image %}
+                <img class="img-responsive" src="{{ post.image }}" alt="{{ post.title}}">
+                {% endif %}
+                <span class="card-title">{{ post.title }}</span>
+              </div>
+              <div class="card-content">
+                <p>{{ post.excerpt}}</p>
+                <p>by {{ post.author }}</p>
+              </div>
+              <div class="card-action">
+                <a href="{{ post.url }}">Read</a>
+              </div>
+            </div>
+            {% endfor %}
           </div>
         </div>
-        {% endfor %}
-      </div>
     </div>
 </section>
