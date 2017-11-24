@@ -3,7 +3,7 @@ layout: post
 title: Lasik Eye Surgery
 date: 2017-10-31
 author: Anthony A. Nader
-image: http://via.placeholder.com/500x300
+image: ../assets/img/blogPost002.jpg
 lead: This has to be a one liner else it will look shitty.
 category: surgery
 subtitle: It's the best decision I took

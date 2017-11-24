@@ -11,6 +11,7 @@ nav .nav-socials {
     margin-right: -10%;
 }
 nav .nav-socials i {
+    opacity: 0.9;
     font-size: 1.25em;
 }
 nav .brand-logo {
@@ -18,6 +19,7 @@ nav .brand-logo {
     font-weight: 300;
 }
 nav .nav-links {
+    font-weight: 100;
     margin-left: -10%;
 }
 .navbar-fixed {
@@ -59,10 +61,25 @@ nav .nav-links {
     text-align: justify;
     text-justify: inter-word;
 }
+.category-tag {
+    margin:0 1%;
+    padding:0 5%;
+    color: #22313F;
+    opacity: 0.9;
+    font-size: 1em;
+    font-weight: 300;
+    float: right !important;
 
+}
 .card .card-image .card-title {
     padding: 20px 0 10px 20px;
     font-size: 35px;
     line-height: 40px;
     font-weight: 100;
+}
+.card .card-content blockquote {
+    height: 50px;
+}
+.card-action-read {
+    color: #EC6F75 !important;
 }
