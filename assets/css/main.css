@@ -46,9 +46,23 @@ nav .nav-links {
 /***********************
         BLOG
 ***********************/
+#blog-post-image {
+    padding:0;
+    margin:auto;
+}
+
+#blog-image-column {
+    padding:0;
+}
+
+#post-content p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 .card .card-image .card-title {
     padding: 20px 0 10px 20px;
-    font-size: 50px;
-    line-height: 50px;
+    font-size: 35px;
+    line-height: 40px;
     font-weight: 100;
 }
