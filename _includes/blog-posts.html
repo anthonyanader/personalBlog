@@ -20,7 +20,10 @@
                         <p>by {{ post.author }}</p>
                       </div>
                       <div class="card-action">
-                        <a href="{{ post.url }}">Read</a>
+                        <a class="card-action-read" href="{{ post.url }}">Read</a>
+                        {% for post in site.posts %}
+                        <span class="category-tag">Hello</span>
+                        {% endfor %}
                       </div>
                     </div>
                 </div>
