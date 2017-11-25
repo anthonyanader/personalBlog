@@ -7,7 +7,7 @@
                 <ul id="nav-mobile" class="left hide-on-med-and-down nav-links">
                     <li {% if page.url == "/" %} class="active" {% endif %} ><a href="{{ "/index.html" | prepend: site.baseurl }}">HOME</a></li>
                     <li {% if page.url == "/blog.html" %} class="active" {% endif %} ><a href="{{ "/blog.html" | prepend: site.baseurl }}">BLOG</a></li>
-                    <li {% if page.url == "/about.html" %} class="active" {% endif %} ><a href="#">ABOUT</a></li>
+                    <li {% if page.url == "/about.html" %} class="active" {% endif %} ><a href="{{ "/about.html" | prepend: site.baseurl }}">ABOUT</a></li>
                     <li {% if page.url == "/contact.html" %} class="active" {% endif %} ><a href="{{ "/contact.html" | prepend: site.baseurl }}">CONTACT</a></li>
                 </ul>
                 <ul id="nav-mobile" class="right hide-on-med-and-down nav-socials">
@@ -19,7 +19,7 @@
                 <ul class="sidenav" id="mobile-demo">
                     <li><a href="{{ "/" | prepend: site.baseurl }}">HOME</a></li>
                     <li><a href="{{ "/blog.html" | prepend: site.baseurl }}">BLOG</a></li>
-                    <li><a href="#">ABOUT</a></li>
+                    <li><a href="{{ "/about.html" | prepend: site.baseurl }}">ABOUT</a></li>
                     <li><a href="{{ "/contact.html" | prepend: site.baseurl }}">CONTACT</a></li>
                 </ul>
             </div>
