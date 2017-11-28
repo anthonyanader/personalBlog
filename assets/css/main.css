@@ -32,11 +32,6 @@ nav .nav-links {
     color: #22313F;
     font-weight: 300;
 }
-
-.blog-content-preview {
-    height: 1000px;
-}
-
 /***********************
         GENERAL
 ***********************/
@@ -65,13 +60,12 @@ nav .nav-links {
 }
 .category-tag {
     margin:0 1%;
-    padding:0 5%;
+    padding:0 2%;
     color: #22313F;
-    opacity: 0.9;
-    font-size: 1em;
+    opacity: 0.8;
+    font-size: 0.9em;
     font-weight: 300;
     float: right !important;
-
 }
 .card .card-image .card-title {
     padding: 20px 0 10px 20px;
@@ -82,7 +76,8 @@ nav .nav-links {
 .card .card-content blockquote {
     font-weight: 100;
     opacity: 0.8;
-    height: 50px;
+    overflow: scroll;
+    min-height: 50px;
 }
 .card-action-read {
     color: #EC6F75 !important;
