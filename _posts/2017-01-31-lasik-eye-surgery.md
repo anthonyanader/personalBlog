@@ -4,9 +4,13 @@ title: Lasik Eye Surgery
 date: 2017-10-31
 author: Anthony A. Nader
 image: ../assets/img/blogPost002.jpg
-lead: This has to be a one liner else it will look shitty.
-category: surgery
-subtitle: It's the best decision I took
+lead: I finally decided to get Lasik Eye Surgery.
+category: personal
+subtitle: Here's my take on it!
+tags:
+    - lasik
+    - operation
+    - vision
 ---
 
 Lorem markdownum avem properas, et *petit paulumque* omnem viscata, tepidum dies
