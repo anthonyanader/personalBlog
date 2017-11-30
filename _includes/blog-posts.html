@@ -9,7 +9,9 @@
                         <div class="card">
                             <div class="card-image">
                                 {% if post.image %}
+                                    <a href="{{ post.url }}">
                                     <img class="responsive-img card-preview-img" src="{{ post.image }}" alt="{{ post.title}}">
+                                    </a>
                                 {% endif %}
                                 <span class="card-title">{{ post.title }}</span>
                             </div>
@@ -17,7 +19,7 @@
                                 <blockquote>
                                     {{ post.lead }}
                                 </blockquote>
-                                <p>by {{ post.author }}</p>
+                                <p class="">by {{ post.author }} | Posted on {{ post.date | date: "%B %d, %Y" }}</p>
                             </div>
                             <div class="card-action">
                                 <a class="card-action-read" href="{{ post.url }}">Read</a>
