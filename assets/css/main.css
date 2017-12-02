@@ -26,12 +26,22 @@ nav .nav-links {
     z-index: 9999;
 }
 /***********************
-        HEADER
+        INTRO
 ***********************/
-.head-text {
+#intro {
+    height: 75vh;
+
+}
+.intro-text {
+    font-family: Montserrat;
     color: #22313F;
     font-weight: 300;
 }
+.intro-subtitle {
+
+}
+
+
 /***********************
         GENERAL
 ***********************/
