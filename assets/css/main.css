@@ -32,15 +32,13 @@ nav .nav-links {
     height: 75vh;
 
 }
-.intro-text {
-    font-family: Montserrat;
-    color: #22313F;
-    font-weight: 300;
-}
-.intro-subtitle {
 
+.introHeadshot {
+    display: block;
+    margin: 5% auto 2%;
+    height: 75%;
+    width: 75%;
 }
-
 
 /***********************
         GENERAL
@@ -50,6 +48,28 @@ nav .nav-links {
     font-weight: 100;
 
 }
+
+/***********************
+        PROJECTS
+***********************/
+.card-reveal p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.project-image img {
+  max-width: 100%;
+
+  -moz-transition: all 0.4s;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+}
+.project-image:hover img {
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
 /***********************
         BLOG
 ***********************/
@@ -59,6 +79,14 @@ nav .nav-links {
 #post-content p {
     text-align: justify;
     text-justify: inter-word;
+}
+.image-source p {
+    margin: 0;
+    color: #525252;
+    font-style: italic;
+    font-size: 0.9em;
+    font-weight: 300;
+    line-height: 20px;
 }
 .row-full{
     width: 100vw;
