@@ -4,6 +4,7 @@ title: Top 5 Books for 2017
 date: 2017-10-31
 author: Anthony A. Nader
 image: ../assets/img/blogPost003.jpg
+imageSource: Victor Trebaka
 lead: 2017 over already!
 category: Books
 subtitle:

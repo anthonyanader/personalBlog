@@ -4,6 +4,7 @@ title: Musical Struggles
 date: 2017-10-31
 author: Anthony A. Nader
 image: ../assets/img/blogPost001.jpg
+imageSource: Victor Trebaka
 lead: Best time in history to become an artist?!
 category: Music
 subtitle: It's the best decision I took
