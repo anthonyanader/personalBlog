@@ -14,9 +14,9 @@ layout: default
                 <h1>{{ page.title }}</h1>
 
                 <!-- Author | TimePosted -->
-                <p>by {{ page.author }} | Posted on {{ page.date | date: "%B %d, %Y" }}</p>
+                <p>by {{ page.author }} | {{ page.date | date: "%B %d, %Y" }}</p>
 
-                {% include imageDisplay.html %}
+                {% include blogImageDisplay.html %}
 
                 <!-- Post Content -->
                 <div id="post-content" class="row">
