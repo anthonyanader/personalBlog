@@ -29,7 +29,7 @@ title: Anthony A. Nader | Software Developer
                     <div class="col s12 m6 l6">
                         <div id="blog-card" class="card">
                             <div class="project-image responsive-img card-image waves-effect waves-block waves-light">
-                                <img class="activator" src="{{ project.image }}">
+                                <img class="activator" src="{{site.baseurl}}/assets/img/projects/{{project.image}}">
                             </div>
                             <div class="card-content">
                                 <span class="card-title activator grey-text text-darken-4">{{ project.name }}<i class="material-icons right">more_vert</i></span>
@@ -40,7 +40,7 @@ title: Anthony A. Nader | Software Developer
                                 {% for tag in project.tags %}
                                 <div id="tags" class="chip">{{ tag }}</div>
                                 {% endfor %}
-                                <p><a href="#">View Project Here -> <i class="fa fa-github-alt" aria-hidden="true"></i></a></p>
+                                <p><a href="#">Full Project Here -> <i class="fa fa-github-alt" aria-hidden="true"></i></a></p>
                             </div>
                         </div>
                     </div>
