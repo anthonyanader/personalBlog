@@ -5,30 +5,23 @@
     - ARkit
     - Swift
     - Firebase
-  image: /assets/img/projects/BackgroundCassette.jpg
+  image: /assets/img/projects/TimeBoard.jpg
   github: https://github.com/anthonyanader/timeboARd
+  devpost:
 
 - name: "Muvïc"
   subtitle:
   description: Hack the North 2017 Project | We came together as four individuals, passionate about sound, music, and digital audio. We developed Muvïc in less than 36 hours! This beautiful web-application uses facial-recognition algorithms to scan for cues and intuitively turn music sheets at the appropriate moment.
   tags:
+    - JavaScript
     - Node.js
     - Python
     - AWS
     - Octave Scripts
     - Material-Design
-  image: 
+  image:  /assets/img/projects/Muvic.jpg
   github: https://github.com/anthonyanader/muvic
-
-- name: "CooKr"
-  subtitle:
-  description: Native Android App | Built in 2016 for
-  tags:
-    - Android
-    - Java
-    - mySQL
-  image: /assets/img/projects/CookrPixel2.jpg
-  github: https://github.com/IMFIL/cookR
+  devpost:
 
 - name: "peTrace"
   subtitle:
@@ -37,5 +30,15 @@
     - Meteor.js
     - Node.js
     - jQuery
-  image:
+  image: /assets/img/projects/peTrace.jpg
   github:
+
+- name: "CooKr"
+  subtitle:
+  description: Native Android App | Built in 2016 for
+  tags:
+    - Android
+    - Java
+    - mySQL
+  image: /assets/img/projects/Cookr.jpg
+  github: https://github.com/IMFIL/cookR
