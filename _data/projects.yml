@@ -5,7 +5,7 @@
     - ARkit
     - Swift
     - Firebase
-  image: personalBlog/assets/img/projects/TimeBoard.jpg
+  image: TimeBoard.jpg
   github: https://github.com/anthonyanader/timeboARd
   devpost:
 
@@ -19,7 +19,7 @@
     - AWS
     - Octave Scripts
     - Material-Design
-  image:  personalBlog/assets/img/projects/Muvic.jpg
+  image:  Muvic.jpg
   github: https://github.com/anthonyanader/muvic
   devpost:
 
@@ -30,7 +30,7 @@
     - Meteor.js
     - Node.js
     - jQuery
-  image: personalBlog/assets/img/projects/peTrace.jpg
+  image: peTrace.jpg
   github:
 
 - name: "CooKr"
@@ -40,5 +40,5 @@
     - Android
     - Java
     - mySQL
-  image: personalBlog/assets/img/projects/Cookr.jpg
+  image: Cookr.jpg
   github: https://github.com/IMFIL/cookR
