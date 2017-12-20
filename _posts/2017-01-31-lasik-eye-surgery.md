@@ -3,7 +3,7 @@ layout: post
 title: Lasik Eye Surgery
 date: 2017-10-31
 author: Anthony A. Nader
-image: ../assets/img/blogPost002.jpg
+image: blogPost002.jpg
 imageSource: Victor Trebaka
 lead: I finally decided to get Lasik Eye Surgery.
 category: personal
