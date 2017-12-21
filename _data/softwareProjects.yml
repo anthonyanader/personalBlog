@@ -1,0 +1,48 @@
+- name: "TimeBo[AR]d"
+  subtitle: We're Git for brainstorming through the medium of Augmented Reality
+  description: HackHarvard Fall 2017 Project | Wanting to change the way teams catalog brainstorming sessions, we developed Team Bo[AR]d, a native iOS app, that enables users to collaborate, share and upload a series of 3D whiteboard sessions through Augmented Reality.
+  tags:
+    - ARkit
+    - Swift
+    - Firebase
+    - GCP
+    - UIkit
+  image: TimeBoard.jpg
+  github: https://github.com/anthonyanader/timeboARd
+  devpost: https://devpost.com/software/timeboard
+
+- name: "Muvïc"
+  subtitle: You play, Muvïc moves
+  description: Hack the North Fall 2017 Project | We came together as four individuals, passionate about sound, music, and digital audio. We developed Muvïc in less than 36 hours! This beautiful web-application uses facial-recognition algorithms to scan for cues and intuitively turn music sheets at the appropriate moment.
+  tags:
+    - JavaScript
+    - Node.js
+    - Python
+    - AWS
+    - Octave Scripts
+    - Material-Design
+  image:  Muvic.jpg
+  github: https://github.com/anthonyanader/muvic
+  devpost: https://devpost.com/software/muvic
+
+- name: "peTrace"
+  subtitle: Lost a loved one?
+  description: Project | Dynamic Web Application in development since Summer 2016. What if more effort was put into finding a lost pet? The quicker someone finds the pet, the higher the reward, and as time passes it diminishes. Find CoCo in less than 48Hrs, and the reward will be 500$, three days or more will be 250$ and so on.
+  tags:
+    - Meteor.js
+    - Node.js
+    - HTML | CSS
+    - jQuery
+  image: peTrace.jpg
+  github:
+
+- name: "CooKr"
+  subtitle: Fridge looks empty?
+  description: Project | Native Android App made in Fall 2016. We built this application to fulfill the requirements for a software engineering semester project. We focused mainly on UX/UI while developing a robust backend for the application.
+  tags:
+    - Android
+    - Java
+    - Sketch
+    - mySQL
+  image: Cookr.jpg
+  github: https://github.com/IMFIL/cookR
