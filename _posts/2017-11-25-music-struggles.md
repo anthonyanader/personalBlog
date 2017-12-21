@@ -6,7 +6,6 @@ author: Anthony A. Nader
 image: blogPost001.jpg
 imageSource: Victor Trebaka
 lead: Best time in history to become an artist?!
-category: Music
 subtitle: It's the best decision I took
 tags:
     - producers

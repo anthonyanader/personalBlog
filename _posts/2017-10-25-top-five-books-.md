@@ -6,7 +6,6 @@ author: Anthony A. Nader
 image: blogPost003.jpg
 imageSource: Victor Trebaka
 lead: 2017 over already!
-category: Books
 subtitle:
 tags:
     - growth

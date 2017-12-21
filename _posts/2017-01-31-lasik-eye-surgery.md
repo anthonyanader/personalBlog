@@ -6,7 +6,6 @@ author: Anthony A. Nader
 image: blogPost002.jpg
 imageSource: Victor Trebaka
 lead: I finally decided to get Lasik Eye Surgery.
-category: personal
 subtitle: Here's my take on it!
 tags:
     - lasik
