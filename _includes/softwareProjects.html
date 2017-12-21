@@ -1,0 +1,27 @@
+{% for project in site.data.softwareProjects %}
+    <div class="col s12 m6 l6">
+        <div id="blog-card" class="card">
+            <div class="project-image responsive-img card-image waves-effect waves-block waves-light">
+                <img class="activator" src="{{site.baseurl}}/assets/img/projects/{{project.image}}">
+            </div>
+            <div class="card-content">
+                <span class="card-title activator grey-text text-darken-4">{{ project.name }}<i class="material-icons right">more_vert</i></span>
+            </div>
+            <div class="card-reveal">
+                <span class="card-title grey-text text-darken-4">{{ project.name }}<i class="material-icons right">close</i></span>
+                <p>{{ project.description }}</p>
+                {% for tag in project.tags %}
+                <div id="tags" class="chip">{{ tag }}</div>
+                {% endfor %}
+
+                <div class="inner-card-links">
+                    <p>Full Project @ <a href="{{ project.github }}" target="_blank">GitHub</a>
+                    {% if project.devpost %}
+                    ||<a href="{{ project.devpost }}" target="_blank"> DevPost</a>
+                    {% endif %}
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}
