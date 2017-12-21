@@ -29,15 +29,7 @@ nav .nav-links {
         INTRO
 ***********************/
 #intro {
-    height: 75vh;
 
-}
-
-.introHeadshot {
-    display: block;
-    margin: 5% auto 2%;
-    height: 75%;
-    width: 75%;
 }
 
 /***********************
