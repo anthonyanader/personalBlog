@@ -10,9 +10,8 @@ nav a {
 nav .nav-socials {
     margin-right: -10%;
 }
-nav .nav-socials i {
+nav .nav-socials span {
     opacity: 0.8;
-    font-size: 1.25em;
 }
 nav .brand-logo {
     font-size: 2em;
@@ -49,7 +48,7 @@ nav .nav-links {
     text-justify: inter-word;
 }
 .card-reveal a {
-    color: #333333 !important;
+    color: #333333;
 }
 .project-image img {
     -moz-transition: all 0.4s;
@@ -60,6 +59,11 @@ nav .nav-links {
     -moz-transform: scale(1.1);
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
+}
+
+.inner-card-links a:hover{
+    opacity: 0.8;
+    color: #EC6F75
 }
 
 
