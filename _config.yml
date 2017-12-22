@@ -1,17 +1,8 @@
-title: Blog | Anthony A. Nader
+title: Anthony A. Nader | Software Developer
 email: hello@anthonyanader.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 permalink: none
 baseurl: "/personalBlog"
 url: ""
-
-# Author settings
-author: Anthony A. Nader
-author-pic: anthonyanader.jpg
-about-author: My name is Anthony. I’m a recent business graduate pursuing a software engineering degree at the University of Ottawa.
 
 # Contact links
 email: hello@anthonyanader.com
