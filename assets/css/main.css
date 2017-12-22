@@ -1,4 +1,19 @@
 /***********************
+    CUSTOM QUERIES
+***********************/
+
+@media (min-width:576px) {
+
+}
+
+@media (min-width:768px) {
+
+}
+
+@media (min-width:992px) {
+
+}
+/***********************
         NAVBAR
 ***********************/
 nav {
@@ -8,7 +23,7 @@ nav a {
     color: #333333 !important;
 }
 nav .nav-socials {
-    margin-right: -10%;
+    margin-right: -15%;
 }
 nav .nav-socials span {
     opacity: 0.8;
@@ -19,15 +34,20 @@ nav .brand-logo {
 }
 nav .nav-links {
     font-weight: 100;
-    margin-left: -10%;
+    margin-left: -15%;
 }
 .navbar-fixed {
     z-index: 9999;
 }
+
 /***********************
         INTRO
 ***********************/
-#intro {
+.intro-container {
+    background-image: url(../img/intro.jpg);
+    background-position: top;
+    background-size: cover;
+    background-attachment: fixed;
 
 }
 
@@ -73,6 +93,25 @@ nav .nav-links {
     color: #EC6F75
 }
 
+
+@media (max-width:576px) {
+    .project-container h2 {
+        text-align: center;
+        font-size: 2.5rem;
+        line-height: 0.8em;
+    }
+}
+
+@media (min-width:768px) {
+    .project-container {
+
+    }
+
+}
+
+@media (min-width:992px) {
+
+}
 
 /***********************
         BLOG

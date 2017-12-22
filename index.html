@@ -3,29 +3,21 @@ layout: default
 title: Anthony A. Nader | Software Developer
 ---
 {% include nav.html %}
-
-<section id="home">
+<section class="intro-container" id="intro">
     <div class="container">
+        <div class="row">
 
-        <!--Introductions-->
-        <div id="intro" class="row">
-            <div class="col s12">
-                <h4 class="center-align">Learn.Design.Code</h4>
-            </div>
         </div>
+    </div>
 
-
-
-        <!--Projects-->
-        <div id="projects" class="row">
+</section>
+<section class="project-container" id="projects">
+    <div class="container">
+        <div class="row">
             <div class="col s12">
-                <hr>
-                <div class="col s12">
-                    <h6 class="center-align">Software Projects</h6>
-                </div>
-
-                {% include softwareProjects.html %}
+                <h2>Software Projects</h2>
             </div>
+            {% include softwareProjects.html %}
         </div>
     </div>
 </section>
