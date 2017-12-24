@@ -180,7 +180,6 @@ nav .nav-links {
 }
 .submit-btn:focus {
     background-color: transparent !important;
-    box-shadow: none;
 }
 
 
