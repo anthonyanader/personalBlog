@@ -2,38 +2,29 @@
 layout: default
 title: Anthony A. Nader | Contact
 ---
-{% include nav.html %}
-<section id="contact-form">
+
+<section id="contact">
     <div class="container">
         <div class="row">
-            <div class="col s12 m8 offset-m2 l6 offset-l3">
-                <h4 class="center-align">Contact</h4>
-                <p class="center-align">I would love to hear any feedback on projects, thoughts, or ideas you might have. Shoot me a message using the form below. Hoping to link up shortly!</p>
+            <div class="col s12">
+                <h1>Contact</h1>
             </div>
-        </div>
-        <div class="row">
-            <form action="https://formspree.io/hello@anthonyanader.com" method="POST" class="col s12 m8 offset-m2 l6 offset-l3">
-                <div class="row">
-                    <div class="input-field">
-                        <input id="contact_name" type="text" name="name" class="validate">
-                        <label for="contact_name"><i class="far fa-user"></i> Name</label>
-                    </div>
-                    <div class="input-field">
-                        <input id="email" type="email" name="_replyto" class="validate">
-                        <label for="email"><i class="far fa-envelope-open"></i></i> Email</label>
-                    </div>
-                    <div class="input-field">
-                        <textarea id="message_content" name="message" class="materialize-textarea"></textarea>
-                        <label for="message_content"><i class="far fa-edit"></i> Message</label>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col s4 offset-s4 m4 offset-m4 l4 offset-l4">
-                        <input type="hidden" name="_subject" value="contact_page" />
-                        <button class="btn submit-btn" type="submit" value="Send">SUBMIT</button>
-                    </div>
-                </div>
-            </form>
+            <div class="col s12 m6 l6">
+                <p class="contact-info-text"><b>I</b>t’s always a pleasure to hear from fellow producers, technology enthusiasts or passerby on the web. Feel free to check out my projects section and let's connect via <a href="https://github.com/anthonyanader" target=_blank>GitHub</a> or <a href="https://www.linkedin.com/in/anthonyanader/" target=_blank>LinkedIn</a>.</p>
+
+                <br>
+                <p class="contact-socials center-align hide-on-med-and-up"><a href="https://github.com/anthonyanader" target=_blank><span class="fab fa-github-alt fa-2x"></span></a></li>
+                <a href="https://www.linkedin.com/in/anthonyanader/" target=_blank><span class="fab fa-linkedin-in fa-2x"></span></a>
+                <a href="{{ "/assets/docs/anthonyResume.pdf" | prepend: site.baseurl }}" target=_blank><span class="far fa-file-alt fa-2x"></span></a>
+                <a href="https://twitter.com/anthony_aanader" target=_blank><span class="fab fa-twitter fa-2x"></span></a>
+                </p>
+                <br>
+
+                <p class="contact-info-text"><b>F</b>or any other inquiries, contact me using the form on this page. In your message, please tell me more about your company, the project and which (if any) of my works lead you to get in touch.</p>
+            </div>
+            <div class="col s12 m6 l6">
+                {% include contactForm.html %}
+            </div>
         </div>
     </div>
 </section>

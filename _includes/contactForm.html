@@ -1,1 +1,26 @@
-
+<div class="row">
+    <form action="https://formspree.io/hello@anthonyanader.com" method="POST" class="col s12 m10 offset-m1 l8 offset-l2">
+        <div class="row">
+            <div class="input-field">
+                <input id="contact_name" type="text" name="name" class="validate">
+                <label for="contact_name"><i class="far fa-user"></i> Name</label>
+            </div>
+            <div class="input-field">
+                <input id="email" type="email" name="_replyto" class="validate">
+                <label for="email"><i class="far fa-envelope-open"></i></i> Email</label>
+            </div>
+            <div class="input-field">
+                <textarea id="message_content" name="message" class="validate materialize-textarea"></textarea>
+                <label for="message_content"><i class="far fa-edit"></i> Message</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col s4 offset-s4 m4 offset-m4 l4 offset-l4">
+                <input type="hidden" name="_subject" value="contact_page" />
+            </div>
+            <p class="center-align">
+                <button class="submit-btn" type="submit" value="Send">SAY HELLO</button>
+            </p>
+        </div>
+    </form>
+</div>
