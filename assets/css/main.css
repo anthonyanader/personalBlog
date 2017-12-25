@@ -162,7 +162,6 @@ nav .nav-links {
     color: rgba(236, 111, 117, 1);
 }
 .submit-btn  {
-    box-shadow: none;
     cursor: pointer;
     background-color: transparent;
     font-size: 1.2em;
