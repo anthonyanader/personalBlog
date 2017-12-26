@@ -11,10 +11,20 @@ main {
   flex: 1 0 auto;
 }
 
+footer p {
+    margin: 0;
+    padding: 0;
+}
 .page-footer{
     padding: 10px;
-
 }
+footer .footer-text {
+    font-size:10px;
+    font-size: 1.5vmin;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
 /***********************
         NAVBAR
 ***********************/
@@ -180,6 +190,9 @@ nav .nav-links {
     background-color: white !important;
 }
 
+/***********************
+    STORY
+***********************/
 
 
 /***********************
