@@ -1,7 +1,7 @@
 title: Anthony A. Nader | Software Developer
 email: hello@anthonyanader.com
 permalink: none
-baseurl: "/personalBlog"
+baseurl: ""
 url: ""
 
 # Contact links
@@ -15,3 +15,7 @@ codepen: anthonyanader
 
 include: [_pages]
 exclude: ['README.md']
+plugins:
+  - jekyll-seo-tag
+  - jekyll-mentions
+  - jemoji
