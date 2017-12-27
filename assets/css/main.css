@@ -174,16 +174,19 @@ nav .nav-links {
     cursor: pointer;
     background-color: white;
     font-size: 1.2em;
+    border: solid;
     border-radius: 2px;
     border-width: 2px;
     border-color: #EC6F75;
-    color: #EC6F75;
+    box-shadow: none !important;
+    color: #EC6F75 !important;
+    text-shadow: none !important;
     height: auto;
     padding: 3% 5%;
 
 }
 .submit-btn:hover {
-    border-color: rgba(236, 111, 117, 0.6);
+    border-color: rgba(236, 111, 117, 0.6)!important;
 
 }
 .submit-btn:focus {
