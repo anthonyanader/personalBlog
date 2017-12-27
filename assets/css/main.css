@@ -168,7 +168,7 @@ nav .nav-links {
 
 }
 .contact-socials a:hover {
-    color: rgba(236, 111, 117, 1);
+    color: #EC6F75;
 }
 .submit-btn  {
     cursor: pointer;
@@ -194,8 +194,28 @@ nav .nav-links {
 }
 
 /***********************
-    STORY
+        STORY
 ***********************/
+.story-text{
+    text-align: justify;
+    letter-spacing: 1px;
+    line-height: 1.8em;
+}
+
+.timeline-header {
+    display:table;
+    margin:0 auto;
+    font-weight: 300;
+
+}
+.timeline-header:hover {
+    color: #EC6F75;
+}
+@media (min-width:600px) {
+    .timeline-component {
+        margin-top: 6%;
+    }
+}
 
 
 /***********************
