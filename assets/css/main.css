@@ -17,7 +17,7 @@ footer p {
 }
 footer .footer-text {
     font-size:10px;
-    font-size: 1.5vmin;
+    font-size: 1.7vmin;
     font-weight: 300;
     letter-spacing: 1px;
 }
@@ -83,10 +83,6 @@ nav .nav-links {
 ***********************/
 .card-reveal p {
     text-align: justify;
-    text-justify: inter-word;
-}
-.card-reveal a {
-    color: #333333;
 }
 .card .card-reveal {
     top:99%;
@@ -102,9 +98,18 @@ nav .nav-links {
     transform: scale(1.1);
 }
 
-.inner-card-links a:hover{
-    color: #EC6F75
+.project-card {
+    display: inline;
+    width: 70%;
 }
+
+@media (min-width: 1500px) {
+    .project-container {
+        width: 60%;
+    }
+
+}
+
 
 /***********************
         BLOG
