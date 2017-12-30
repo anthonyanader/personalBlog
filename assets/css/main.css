@@ -135,11 +135,9 @@ nav .nav-links {
     margin-right: -50vw;
 }
 .category-tag {
-    margin:0 1%;
-    padding:0 2%;
     color: #22313F;
-    opacity: 0.8;
-    font-size: 0.9em;
+    opacity: 0.6;
+    font-size: 1em;
     font-weight: 300;
     float: right !important;
 }
@@ -156,6 +154,9 @@ nav .nav-links {
 }
 .card-action-read {
     color: #EC6F75 !important;
+}
+.card-action-read:hover {
+    opacity: 0.6;
 }
 
 /***********************

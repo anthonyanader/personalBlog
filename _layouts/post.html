@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 <!-- POST HTML -->
@@ -23,13 +24,14 @@ layout: default
                         {{ page.content }}
                     </div>
                 </div>
-                    {% if page.previous %}
-                    <span style="float: left;"><a class="pink-hover" rel="prev" href="{{ page.previous.url }}">Previous article</a></span>
-                    {% endif %}
 
-                    {% if page.next %}
-                    <span style="float: right;"><a class="pink-hover" rel="next" href="{{ page.next.url }}">Next article</a></span>
-                    {% endif %}
+                {% if page.previous %}
+                <span style="float: left;"><a class="pink-hover" rel="prev" href="{{site.baseurl}}{{ page.previous.url }}">Previous article</a></span>
+                {% endif %}
+
+                {% if page.next %}
+                <span style="float: right;"><a class="pink-hover" rel="next" href="{{site.baseurl}}{{ page.next.url }}">Next article</a></span>
+                {% endif %}
             </div>
         </div>
     </div>
