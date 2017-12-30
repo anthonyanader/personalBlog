@@ -5,16 +5,14 @@ email: hello@anthonyanader.com
 permalink: none
 baseurl: ""
 url: "anthonyanader.github.io"
-
-# Contact links
-email: hello@anthonyanader.com
-website: anthonyanader.com
-linkedin: anthonyanader
-github: anthonyanader
-twitter: '@anthony_aanader'
-devpost: anthonyanader
-codepen: anthonyanader
-
+twitter:
+  username: anthony_aanader
+socials:
+    name: Anthony A. Nader
+    links:
+        - https://twitter.com/anthony_aanader
+        - https://www.linkedin.com/in/anthonyanader/
+        - https://github.com/anthonyanader
 include: [_pages]
 exclude: ['README.md']
 plugins:

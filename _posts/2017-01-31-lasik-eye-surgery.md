@@ -2,15 +2,13 @@
 layout: post
 title: Lasik Eye Surgery
 date: 2017-10-31
+description:
 author: Anthony A. Nader
 image: blogPost002.jpg
+lang: en_US
 imageSource: Victor Trebaka
 lead: I finally decided to get Lasik Eye Surgery.
-subtitle: Here's my take on it!
-tags:
-    - lasik
-    - operation
-    - vision
+categories:
 ---
 
 Lorem markdownum avem properas, et *petit paulumque* omnem viscata, tepidum dies
