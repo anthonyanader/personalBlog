@@ -17,6 +17,7 @@
   tags:
     - JavaScript
     - Node.js
+    - Express.JS
     - Python
     - AWS
     - Octave Scripts
@@ -31,10 +32,11 @@
   tags:
     - Meteor.js
     - Node.js
+    - Mongo DB
     - HTML | CSS
     - jQuery
   image: peTrace.jpg
-  github:
+  github: https://github.com/IMFIL/petTrace
 
 - name: "CooKr"
   subtitle: Fridge looks empty?
