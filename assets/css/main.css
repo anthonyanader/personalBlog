@@ -109,8 +109,6 @@ nav .nav-links {
     }
 
 }
-
-
 /***********************
         BLOG
 ***********************/
@@ -119,7 +117,6 @@ nav .nav-links {
 }
 #post-content p {
     text-align: justify;
-    text-justify: inter-word;
 }
 .image-source p {
     margin: 0;
@@ -150,7 +147,7 @@ nav .nav-links {
     padding: 20px 0 10px 20px;
     font-size: 35px;
     line-height: 40px;
-    font-weight: 100;
+    font-weight: 200;
 }
 .card .card-content blockquote {
     font-weight: 100;
