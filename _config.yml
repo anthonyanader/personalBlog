@@ -13,6 +13,7 @@ socials:
         - https://twitter.com/anthony_aanader
         - https://www.linkedin.com/in/anthonyanader/
         - https://github.com/anthonyanader
+google_site_verification: lkN4oYQcdQpC_CRRFlf533oL_4KHKRuoBikPJ3xipd0
 include: [_pages]
 exclude: ['README.md']
 plugins:
