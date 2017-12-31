@@ -5,11 +5,10 @@ description:
 permalink: /blog/:categories/:title
 date: 2017-10-31
 author: Anthony A. Nader
-blogPreview:
-image: blogPost001.jpg
+image: musicalStruggles.jpg
 imageSource: Victor Trebaka
+lang: en_US
 lead: Best time in history to become an artist?!
-subtitle: It's the best decision I took
 categories: music
 ---
 

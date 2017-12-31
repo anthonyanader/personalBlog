@@ -5,11 +5,11 @@ description:
 permalink: /blog/:categories/:title
 date: 2017-10-31
 author: Anthony A. Nader
-image: blogPost002.jpg
+image: lasikSurgery.jpg
 lang: en_US
 imageSource: Victor Trebaka
 lead: I finally decided to get Lasik Eye Surgery.
-categories:
+categories: lifestyle
 ---
 
 Lorem markdownum avem properas, et *petit paulumque* omnem viscata, tepidum dies

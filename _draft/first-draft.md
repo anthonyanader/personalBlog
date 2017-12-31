@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Musical Struggles
+title: 
 description:
-date: 2017-10-31
-author:
-imagePreview:
+permalink: /blog/:categories/:title
+date: 2017
+author: Anthony A. Nader
 image:
 imageSource:
+lang: en_US
 lead:
-subtitle:
 categories:
 ---
 
