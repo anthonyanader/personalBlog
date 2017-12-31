@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Musical Struggles
+description:
+permalink: /blog/:categories/:title
 date: 2017-10-31
 author: Anthony A. Nader
 blogPreview:

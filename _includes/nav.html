@@ -5,10 +5,10 @@
                 <a href="{{ "/index.html" | prepend: site.baseurl }}" class="waves-effect brand-logo center">/\ /\.|\|</a>
                  <a href="#" data-target="mobile-demo" class="sidenav-trigger button-collapse"><i class="material-icons">menu</i></a>
                 <ul id="nav-mobile" class="left hide-on-med-and-down nav-links">
-                    <li {% if page.url == "/" %} class="active" {% endif %} ><a href="{{ "/index.html" | prepend: site.baseurl }}"><strong>P</strong>ROJECTS</a></li>
-                    <li {% if page.url == "/about.html" %} class="active" {% endif %} ><a href="{{ "/about.html" | prepend: site.baseurl }}"><strong>S</strong>TORY</a></li>
-                    <li {% if page.url == "/blog.html" %} class="active" {% endif %} ><a href="{{ "/blog.html" | prepend: site.baseurl }}"><strong>B</strong>LOG</a></li>
-                    <li {% if page.url == "/contact.html" %} class="active" {% endif %} ><a href="{{ "/contact.html" | prepend: site.baseurl }}"><strong>C</strong>ONTACT</a></li>
+                    <li {% if page.url == "/" %} class="active" {% endif %} ><a href="{{ "/" | prepend: site.baseurl }}"><strong>P</strong>ROJECTS</a></li>
+                    <li {% if page.url == "/about/" %} class="active" {% endif %} ><a href="{{ "/about/" | prepend: site.baseurl }}"><strong>S</strong>TORY</a></li>
+                    <li {% if page.url contains "/blog/" %} class="active" {% endif %} ><a href="{{ "/blog/" | prepend: site.baseurl }}"><strong>B</strong>LOG</a></li>
+                    <li {% if page.url == "/contact/" %} class="active" {% endif %} ><a href="{{ "/contact/" | prepend: site.baseurl }}"><strong>C</strong>ONTACT</a></li>
                 </ul>
                 <ul id="nav-mobile" class="right hide-on-med-and-down nav-socials">
                     <li><a href="https://github.com/anthonyanader" target=_blank><span class="fab fa-github-alt"></span></a></li>
@@ -18,9 +18,9 @@
                 </ul>
                 <ul class="sidenav" id="mobile-demo">
                     <li><a href="{{ "/" | prepend: site.baseurl }}">PROJECTS</a></li>
-                    <li><a href="{{ "/about.html" | prepend: site.baseurl }}">STORY</a></li>
-                    <li><a href="{{ "/blog.html" | prepend: site.baseurl }}"><strong>B</strong>LOG</a></li>
-                    <li><a href="{{ "/contact.html" | prepend: site.baseurl }}">CONTACT</a></li>
+                    <li><a href="{{ "/about/" | prepend: site.baseurl }}">STORY</a></li>
+                    <li><a href="{{ "/blog/" | prepend: site.baseurl }}"><strong>B</strong>LOG</a></li>
+                    <li><a href="{{ "/contact/" | prepend: site.baseurl }}">CONTACT</a></li>
                 </ul>
             </div>
         </div>

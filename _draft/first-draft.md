@@ -1,16 +1,15 @@
 ---
 layout: post
-title: Top 5 Books for 2017
+title: Musical Struggles
+description:    
 date: 2017-10-31
-author: Anthony A. Nader
-image: blogPost003.jpg
-imageSource: Victor Trebaka
-lead: 2017 over already!
+author:
+blogPreview:
+image:
+imageSource:
+lead:
 subtitle:
-tags:
-    - growth
-    - reading
-    - teams
+categories:
 ---
 
 Lorem markdownum avem properas, et *petit paulumque* omnem viscata, tepidum dies
