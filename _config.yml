@@ -7,7 +7,6 @@ baseurl: ""
 url: "anthonyanader.github.io"
 default_bg: default_bg.png
 twitter: anthony_aanader
-google_site_verification: lkN4oYQcdQpC_CRRFlf533oL_4KHKRuoBikPJ3xipd0
 include: [_pages]
 exclude: ['README.md']
 plugins:
