@@ -13,14 +13,12 @@
 	<meta property="og:site_name" content="{{ site.title }}">
 	{% if page.imagePreview %}<meta property="og:image" content="{{ site.url }}/assets/img/blogImages/{{ page.image }}">{% else %}<meta property="og:image" content="{{ site.url }}/assets/img/{{ site.default_bg }}">{% endif %}
 	<!-- Twitter Cards -->
-	{% if site.twitter %}
-	<meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-	<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-	{% if page.image %}<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:image" content="{{ site.url }}/assets/img/{{ page.image }}">
+	{% if page.imagefeature %}<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:image" content="{{ site.url }}/images/{{ page.imagefeature }}">
 	{% else %}<meta name="twitter:card" content="summary">
-	<meta name="twitter:image" content="{% if page.imagePreview %}{{ site.url }}/assets/img/{{ page.imagePreview }}{% else %}{{ site.url }}/img/{{ site.default_bg }}{% endif %}">
-	{% endif %}
+	<meta name="twitter:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/{{ site.logo }}{% endif %}">{% endif %}
+
+	<meta name="google-site-verification" content="google77d452a84497e960.html">
 
 	<link rel="canonical" href="{{ page.url | prepend: site.url }}">
 
