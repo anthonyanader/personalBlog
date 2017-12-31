@@ -6,7 +6,6 @@ body {
   min-height: 100vh;
   flex-direction: column;
 }
-
 main {
   flex: 1 0 auto;
 }
@@ -38,14 +37,6 @@ footer .footer-text {
         line-height: 0.8em;
     }
 }
-@media (min-width:768px) {
-
-}
-
-@media (min-width:992px) {
-
-}
-
 /***********************
         NAVBAR
 ***********************/
