@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Musical Struggles
-description:    
+description:
 date: 2017-10-31
 author:
-blogPreview:
+imagePreview:
 image:
 imageSource:
 lead:

@@ -5,14 +5,8 @@ email: hello@anthonyanader.com
 permalink: pretty
 baseurl: ""
 url: "anthonyanader.github.io"
-twitter:
-  username: anthony_aanader
-socials:
-    name: Anthony A. Nader
-    links:
-        - https://twitter.com/anthony_aanader
-        - https://www.linkedin.com/in/anthonyanader/
-        - https://github.com/anthonyanader
+default_bg: default_bg.png
+twitter: anthony_aanader
 google_site_verification: lkN4oYQcdQpC_CRRFlf533oL_4KHKRuoBikPJ3xipd0
 include: [_pages]
 exclude: ['README.md']

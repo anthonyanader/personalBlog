@@ -4,25 +4,25 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}">
-
+	<!-- Open Graph -->
 	<meta property="og:locale" content="en_US">
 	<meta property="og:type" content="article">
-	<meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-	<meta property="og:url" content="{{ site.url }}{{ page.url }}">
-	<meta property="og:image" content="{{ site.url }}/assets/img/blogImages/{{ page.image }}" />
-	<meta property="og:site_name" content="Anthony A. Nader | Blog">
-	<meta property="article:author" content="{{site.author}}" />
-	<meta property="article:published_time" content="{{ page.date }}" />
+	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 	<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-
-	<meta name="twitter:card" content="summary_large_image"/>
+	<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+	<meta property="og:site_name" content="{{ site.title }}">
+	{% if page.imagePreview %}<meta property="og:image" content="{{ site.url }}/assets/img/blogImages/{{ page.image }}">{% else %}<meta property="og:image" content="{{ site.url }}/assets/img/{{ site.default_bg }}">{% endif %}
+	<!-- Twitter Cards -->
+	{% if site.twitter %}
 	<meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 	<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-	<meta name="twitter:site" content="@anthony_aanader" />
-	<meta name="twitter:creator" content="@anthony_aanader">
-	<meta name="twitter:card" content="summary">
+	{% if page.image %}<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:image" content="{{ site.url }}/assets/img/{{ page.image }}">
+	{% else %}<meta name="twitter:card" content="summary">
+	<meta name="twitter:image" content="{% if page.imagePreview %}{{ site.url }}/assets/img/{{ page.imagePreview }}{% else %}{{ site.url }}/img/{{ site.default_bg }}{% endif %}">
+	{% endif %}
 
-
+	<link rel="canonical" href="{{ page.url | prepend: site.url }}">
 
     <!-- Favicons -->
 	<link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/img/favicon/apple-touch-icon.png" | prepend: site.baseurl }}">
