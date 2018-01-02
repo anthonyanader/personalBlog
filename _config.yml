@@ -4,7 +4,7 @@ author: Anthony A. Nader
 email: hello@anthonyanader.com
 permalink: pretty
 baseurl: ""
-url: "anthonyanader.com"
+url: "http://anthonyanader.com"
 default_bg: default_bg.png
 twitter: anthony_aanader
 include: [_pages]
