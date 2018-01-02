@@ -109,6 +109,10 @@ nav .nav-links {
 #post-content p {
     text-align: justify;
 }
+.date {
+    font-size: 12px;
+    font-weight: 100;
+}
 .image-source p {
     margin: 0;
     color: #525252;
@@ -141,7 +145,7 @@ nav .nav-links {
 .card .card-content blockquote {
     font-weight: 100;
     opacity: 0.8;
-    min-height: 50px;
+    min-height: 25px;
 }
 .card-action-read {
     color: #EC6F75 !important;
