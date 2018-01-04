@@ -15,10 +15,11 @@
                             <span class="card-title">{{ post.title }}</span>
                         </div>
                         <div class="card-content">
+                            <p class="card-date">{{ post.date | date: "%B %d, %Y" }} </p>
                             <blockquote>
                                 {{ post.lead }}
                             </blockquote>
-                            <p class="date">{{ post.date | date: "%B %d, %Y" }} </p>
+
                         </div>
                         <div class="card-action">
                             <a class="card-action-read" href="{{ site.baseurl }}{{ post.url }}">Read</a>

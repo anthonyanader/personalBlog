@@ -72,6 +72,9 @@ nav .nav-links {
 /***********************
         PROJECTS
 ***********************/
+.card .card-reveal {
+    padding: 30px;
+}
 .card-reveal p {
     text-align: justify;
 }
@@ -109,9 +112,9 @@ nav .nav-links {
 #post-content p {
     text-align: justify;
 }
-.date {
-    font-size: 12px;
-    font-weight: 100;
+.card-date {
+    font-size: 1.1em;
+    font-weight: 300;
 }
 .image-source p {
     margin: 0;
@@ -143,8 +146,8 @@ nav .nav-links {
     font-weight: 200;
 }
 .card .card-content blockquote {
-    font-weight: 100;
-    opacity: 0.8;
+    font-weight: 300;
+    opacity: 0.9;
     min-height: 25px;
 }
 .card-action-read {
@@ -153,7 +156,9 @@ nav .nav-links {
 .card-action-read:hover {
     opacity: 0.6;
 }
-
+.card .card-content {
+    padding-bottom: 10px;
+}
 .flow-text {
     font-weight: 400;
 }
