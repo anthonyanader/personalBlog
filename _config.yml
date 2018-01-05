@@ -7,6 +7,8 @@ baseurl: ""
 url: "http://anthonyanader.com"
 default_bg: default_bg.png
 twitter: anthony_aanader
+github: anthonyanader
+linkedin: anthonyanader
 include: [_pages]
 exclude: ['README.md']
 plugins:
