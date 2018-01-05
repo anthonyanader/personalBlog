@@ -6,9 +6,9 @@ permalink: pretty
 baseurl: ""
 url: "http://anthonyanader.com"
 default_bg: default_bg.png
-twitter: anthony_aanader
-github: anthonyanader
-linkedin: anthonyanader
+twitter: https://twitter.com/anthony_aanader
+github: https://github.com/anthonyanader
+linkedin: https://www.linkedin.com/in/anthonyanader
 include: [_pages]
 exclude: ['README.md']
 plugins:

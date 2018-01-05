@@ -30,11 +30,11 @@ footer .footer-text {
     h1 {
         text-align: center;
         font-size: 2.5rem;
-        line-height: 0.8em;
+        line-height: 1;
     }
     h2 {
         font-size: 2rem;
-        line-height: 0.8em;
+        line-height: 1;
     }
 }
 /***********************
