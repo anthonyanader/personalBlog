@@ -12,7 +12,10 @@
 	<meta property="og:description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160 }}{% endif %}">
 	<meta property="og:url" content="{{ site.url }}{{ page.url }}">
 	<meta property="og:site_name" content="{{ site.title }}">
-	{% if page.image %}<meta property="og:image" content="{{ site.url }}/assets/img/blogImages/{{ page.image }}">{% else %}<meta property="og:image" content="{{ site.url }}/assets/img/{{ site.default_bg }}">{% endif %}
+	{% if page.image %}<meta property="og:image" content="{{ site.url }}/assets/img/blogImages/{{ page.image }}">{% else %}<meta property="og:image" content="{{ site.url }}/assets/img/{{ site.default_bg }}">
+	<meta name="og:height" content="200">
+	<meta name="og:width" content="200">
+	{% endif %}
 	<!-- Twitter Cards -->
 	<meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 	{% if page.image %}<meta name="twitter:card" content="summary_large_image">
