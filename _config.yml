@@ -6,6 +6,7 @@ permalink: pretty
 baseurl: ""
 url: "http://anthonyanader.com"
 default_bg: default_bg.png
+future: true
 
 twitter: https://twitter.com/anthony_aanader
 github: https://github.com/anthonyanader
