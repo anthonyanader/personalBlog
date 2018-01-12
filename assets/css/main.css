@@ -81,6 +81,7 @@ nav .nav-links {
 .card .card-reveal {
     top:99%;
 }
+
 .project-image img {
     -moz-transition: all 0.4s;
     -webkit-transition: all 0.4s;
@@ -90,9 +91,7 @@ nav .nav-links {
     -moz-transform: scale(1.1);
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
-
 }
-
 .project-card {
     display: inline;
     width: 70%;
@@ -153,6 +152,10 @@ nav .nav-links {
     font-weight: 300;
     opacity: 0.9;
     min-height: 25px;
+}
+.card-preview-img:hover {
+    opacity: 0.8;
+
 }
 .card-action-read {
     color: #EC6F75 !important;
