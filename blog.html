@@ -4,12 +4,16 @@ title: Anthony A. Nader | Blog
 ---
 
 <section id="blog">
-    <div class="container">
+    <div class="container large-container-reduce">
         <div class="row">
             <div class="col s12">
                 <h1>Blog</h1>
             </div>
+            <div class="row">
+                <div class="col s12 preview-card">
+                    {% include blog-posts.html %}
+                </div>
+            </div>
         </div>
     </div>
-    {% include blog-posts.html %}
 </section>

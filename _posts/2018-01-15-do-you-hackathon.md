@@ -8,7 +8,7 @@ author: Anthony A. Nader
 image: doYouHackathon.jpg
 imageSource: Daria Nepriakhina
 lang: en_US
-lead: Are you attending one soon?
+lead: Attending one soon?
 categories: hackathons
 tags:
 published: false

@@ -1,34 +1,21 @@
-<!-- Blog Post Preview Loop -->
-<div class="container">
-    <div class="row">
-        <div id="blog-image-column" class="col s12">
-            <!-- Blog Posts -->
-            {% for post in site.posts %}
-                <div class="col s12 m6 l6">
-                    <div class="card">
-                        <div class="card-image">
-                            {% if post.image %}
-                                <a href="{{ site.baseurl }}{{ post.url }}">
-                                <img class="responsive-img card-preview-img" src="{{ site.baseurl }}/assets/img/blogImages/{{ post.image }}" alt="{{ post.title }}">
-                                </a>
-                            {% endif %}
-                            <span class="card-title">{{ post.title }}</span>
-                        </div>
-                        <div class="card-content">
-                            <p class="card-date">{{ post.date | date: "%B %d, %Y" }} </p>
-                            <blockquote>
-                                {{ post.lead }}
-                            </blockquote>
-                        </div>
-                        <div class="card-action">
-                            <a class="card-action-read" href="{{ site.baseurl }}{{ post.url }}">Read</a>
-                            {% for category in post.categories %}
-                                <span class="category-tag">{{ category }}</span>
-                            {% endfor %}
-                        </div>
-                    </div>
-                </div>
-            {% endfor %}
+{% for post in site.posts %}
+    <div class="col s12 m6 l6 xl6">
+        <div class="card">
+            <div class="blog-preview-image responsive-img card-image waves-effect waves-block waves-light">
+                <a href="{{ site.baseurl }}{{ post.url }}">
+                    <img class="responsive-img" src="{{ site.baseurl }}/assets/img/blogImages/{{ post.image }}" alt="{{ post.title }}">
+                </a>
+            </div>
+            <div class="card-content">
+                <span class="card-title">{{ post.title }}</span>
+                <blockquote> {{ post.lead }} </blockquote>
+            </div>
+            <div class="card-action">
+                <a class="card-action-read" href="{{ site.baseurl }}{{ post.url }}">READ</a>
+                {% for category in post.categories %}
+                    <span class="category-tag">{{ category }}</span>
+                {% endfor %}
+            </div>
         </div>
     </div>
-</div>
+{% endfor %}
