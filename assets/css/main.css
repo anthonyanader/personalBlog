@@ -111,7 +111,7 @@ nav .nav-links {
     margin-top: 1%;
 }
 #post-content p {
-    text-align: justify;
+    text-align: left;
     font-family: Georgia, Times, "Times New Roman", serif;
     font-style: normal;
 	font-variant: normal;
