@@ -11,7 +11,7 @@ lang: en_US
 lead: Are you attending one soon?
 categories: hackathons
 tags:
-published: true
+published: false
 ---
 
 <b>A</b> few years ago, a good friend of mine kept pushing me to register for something called a hackathon - an event that combines designers, developers and other domain experts with the goal of creating and building something, from nothing, within 24 or 36 hours and present the final product to a judging panel.
