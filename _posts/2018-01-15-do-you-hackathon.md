@@ -30,16 +30,15 @@ In my first-year in software engineering, I applied to various hackathons and wa
 
 <b>How did I go from multiple rejections to two acceptances in a year?</b>
 
-I began taking online courses to grow my dev stack beyond the scope of school. For that, I would highly recommend FreeCodeCamp because its free and offers the opportunity to build real projects that you can showcase on your GitHub. For a more traditional approach to online classes, I would recommend Udemy, Udacity or Coursera in that order.
+I began taking online courses to grow my dev stack beyond the scope of school. For that, I would highly recommend <a class="pink-hover" href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a> because its free and offers the opportunity to build real projects that you can showcase on your GitHub or CodePen. For a more traditional approach to online classes, I would recommend Udemy, Udacity or Coursera in that order.
 
-I will not go into which languages, frameworks or stacks you should choose and learn, but I can definitely recommend that, after careful review and consideration on your behalf, to pick one and stick with it.
+I will not go into which languages, frameworks or stacks you should choose and learn, but I can definitely recommend that, after careful review and consideration on your behalf, pick one and stick with it.
 
 ### Go once and you're hooked
 
 After attending <a class="pink-hover" href="https://hackthenorth.com/" target="_blank">Hack the North</a>, I was hooked. It was one of the most fun and productive weekends of my life! It was truly a remarkable experience; from meeting like-minded individuals to attending workshops and talks with industry leaders, to the variety of sponsors, swag, food: it was mind-blowing!
 
 It was clear to me; I needed to attend more hackathons. I made it a goal to participate in 1-2 hackathons every six months. I attended <a class="pink-hover" href="http://hackharvard.io/" target="_blank">HackHarvard</a> shortly after and will be participating in <a class="pink-hover" href="https://conuhacks.io/" target="_blank">ConUHacks</a> at the end of the month.
-
 
 ### First steps
 
@@ -66,10 +65,20 @@ Why should you attend and complete a hackathon?
 
 Besides the lack of sleep, you will leave the hackthon with the following:
 
-1. Networking — you will make new friends, and you will meet a multitude of people during that weekend. You will meet industry leaders and experts in your field. Get the chance to know them; introduce yourself don't be shy, everyone is there for that same reason.
+1. Network — you will make new friends, and you will meet a multitude of people during that weekend. You will meet industry leaders and experts in your field. Get the chance to know them; introduce yourself don't be shy, everyone is there for that same reason.
 
 2. Project — once you are done, all that hard work you put in will be worth it! You can showcase that project on your CV, GitHub or LinkedIn. You have something to talk about in your next job interview, with your friends and/or work colleagues.
 
 3. Confidence — whether you win or not, remember that you didn't stop working for so many hours. That you might have attended the hackathon with no prior knowledge of a particular technology and managed to develop an impressive project with your team! Now you feel even more confident for your next hackathon.
 
 4. Experience - take advantage of the fact that you are a student; attend as many hackathons as you can. It will provide you with a different, refreshing experience that you will not get from anywhere else.
+
+### Go on, your turn!
+
+I want to hear all about your experiences! Did any of these tips help?
+
+Feel free to let me know if I missed anything. If you'd like me to elaborate on anything else or if you have any other questions, please leave them in the comment section below.
+
+Best of luck :raised_hands:
+
+Anthony
