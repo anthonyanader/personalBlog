@@ -10,7 +10,7 @@ imageSource: Daria Nepriakhina
 lang: en_US
 lead: Attending one soon?
 categories: hackathons
-tags:
+tags: hackathons technology tips advice students
 published: true
 ---
 
@@ -68,12 +68,8 @@ Besides the lack of sleep, you will leave the hackthon with the following:
 
 1. Networking — you will make new friends, and you will meet a multitude of people during that weekend. You will meet industry leaders and experts in your field. Get the chance to know them; introduce yourself don't be shy, everyone is there for that same reason.
 
-2. Project — once you are done, all that hard work you put in was worth it! You can showcase that project on your CV, GitHub or LinkedIn. You have something to talk about in your next job interview, your friends and/or work colleagues.
+2. Project — once you are done, all that hard work you put in will be worth it! You can showcase that project on your CV, GitHub or LinkedIn. You have something to talk about in your next job interview, with your friends and/or work colleagues.
 
-3. Confidence —
+3. Confidence — whether you win or not, remember that you didn't stop working for so many hours. That you might have attended the hackathon with no prior knowledge of a particular technology and managed to develop an impressive project with your team! Now you feel even more confident for your next hackathon.
 
-4. Knowledge
-
-<b>Optional</b>:
-- Potential job interview
-- Opportunities
+4. Experience - take advantage of the fact that you are a student; attend as many hackathons as you can. It will provide you with a different, refreshing experience that you will not get from anywhere else.
