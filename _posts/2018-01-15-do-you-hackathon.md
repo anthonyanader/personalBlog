@@ -48,7 +48,7 @@ Also, you might want to make your travel arrangments as soon as possible. Major 
 
 ### Pay attention to the theme and sponsors
 
-Pair or create a team early this way you can start getting to know each other before the event. If you are attending solo (like I did), you want to join the slack, facebook or any form of group created for the event. Use this opportunity to showcase yourself, your interests, skills. Make sure to link your personal website, GitHub or LinkedIn in the groups. Most importantly demonstrate the initiative to join an existing team, or advertise that you are recruiting for your own team.
+Pair or create a team early this way you can start getting to know each other before the event. If you are attending solo (like I did), you want to join the slack, facebook or any form of group created for the event. Use this opportunity to showcase yourself, your skills and interests. Make sure to link your personal website and GitHub in the groups. Most importantly demonstrate the initiative to join an existing team, or advertise that you are recruiting for your own team.
 
 Once you have a crew, its time to brainstorm. Here's something I would recommend: if you want to have the chance to win, pay close attention to the top sponsors of the hackathon.
 
@@ -67,15 +67,15 @@ Besides the lack of sleep, you will leave the hackthon with the following:
 
 1. Network — you will make new friends, and you will meet a multitude of people during that weekend. You will meet industry leaders and experts in your field. Get the chance to know them; introduce yourself don't be shy, everyone is there for that same reason.
 
-2. Project — once you are done, all that hard work you put in will be worth it! You can showcase that project on your CV, GitHub or LinkedIn. You have something to talk about in your next job interview, with your friends and/or work colleagues.
+2. Project — once you're done, all that hard work you put in will be worth it! You can showcase that project on your CV, GitHub or LinkedIn. You have something to talk about in your next job interview, with your friends and/or work colleagues.
 
-3. Confidence — whether you win or not, remember that you didn't stop working for so many hours. That you might have attended the hackathon with no prior knowledge of a particular technology and managed to develop an impressive project with your team! Now you feel even more confident for your next hackathon.
+3. Confidence — whether you win or not, remember that you didn't stop learning, that you might have attended the hackathon with no prior knowledge of a particular technology and managed to develop an impressive project with your team! I bet you'll feel much more confident for your next hackathon.
 
-4. Experience - take advantage of the fact that you are a student; attend as many hackathons as you can. It will provide you with a different, refreshing experience that you will not get from anywhere else.
+4. Experience - take advantage of the fact that you are a student; attend as many hackathons as you can. It will provide you with a different, refreshing kind of work experience that you will not get from anywhere else.
 
 ### Go on, your turn!
 
-I want to hear all about your experiences! Did any of these tips help?
+Did any of these tips help? Let me know how your first hackathon went?!
 
 Feel free to let me know if I missed anything. If you'd like me to elaborate on anything else or if you have any other questions, please leave them in the comment section below.
 
