@@ -1,0 +1,9 @@
+<div class="s12 center-align">
+    {% if page.previous %}
+    <p><a class="pink-hover" rel="prev" href="{{ site.baseurl }}{{ page.previous.url }}">Previous Article </a>|
+    {% endif %}
+
+    {% if page.next %}
+    |<a class="pink-hover" rel="next" href="{{ site.baseurl }}{{ page.next.url }}"> Next Article</a></p>
+    {% endif %}
+</div>
