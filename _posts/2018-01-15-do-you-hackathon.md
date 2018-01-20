@@ -71,7 +71,7 @@ Besides the lack of sleep, you will leave the hackthon with the following:
 
 3. Confidence — whether you win or not, remember that you didn't stop learning, that you might have attended the hackathon with no prior knowledge of a particular technology and managed to develop an impressive project with your team! I bet you'll feel much more confident for your next hackathon.
 
-4. Experience - take advantage of the fact that you are a student; attend as many hackathons as you can. It will provide you with a different, refreshing kind of work experience that you will not get from anywhere else.
+4. Experience — take advantage of the fact that you are a student; attend as many hackathons as you can. It will provide you with a different, refreshing kind of work experience that you will not get from anywhere else.
 
 ### Go on, your turn!
 
