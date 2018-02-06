@@ -3,7 +3,7 @@ layout: post
 title: Music. Sound. Code.
 description: Growing interest in combining software development, sound, and music.
 permalink: /blog/:categories/:title
-date: 2018-02-08
+date: 2018-02-06
 author: Anthony A. Nader
 image: newDirection.jpg
 imageSource: Danielle MacInnes
@@ -17,9 +17,9 @@ published: true
  <b>A</b>fter a few hackathons this year, I've come to realize how many people were actually interested in projects that combined software development, music, and sound. Whether it was for a hack,  a mobile application or a simple browser-based audio manipulation - people were <b>genuinely</b> interested in connecting these fields.
 
 
-Have a look at companies like Shazam, Soundcloud, Spotify, StingRay to name a few, who have their technologies based on either music, audio, code or the combination of all three! There is a real potential in this area and having an interest in combining these fields has its benefits; one can merge and apply any area of expertise such as Data Science, Machine Learning, AI, Deep Learning, and Statistics. So if not solely the artistic side that attracts you to this domain you can rest assured that almost any field of technology can be applied to music and sound.
+Have a look at companies like Shazam, Soundcloud, Spotify, StingRay to name a few, who have their technologies based on either music, audio, code or the combination of all three! There is a real potential in this area and having an interest in combining these fields has its benefits; one can merge and apply any area of expertise such as Data Science, Machine Learning, AI, Deep Learning, and Statistics. So if it's not solely the artistic side that attracts you to this domain you can rest assured that almost any field of technology can be applied to music and sound.
 
-Also, a new demand for intelligent, autonomous music teachers is dominating the world of web and iOS applications. Top grossing apps such <a class="pink-hover" href="https://melodics.com/" target="_blank">Melodics</a> and <a class="pink-hover" href="https://yousician.com/" target="_blank">Yousician</a> offer users flexibility to practice and learn new instruments from the comfort of their homes.
+But wait, there's more! A new demand for intelligent, autonomous music teachers is dominating the world of web and iOS applications. Top grossing apps such <a class="pink-hover" href="https://melodics.com/" target="_blank">Melodics</a> and <a class="pink-hover" href="https://yousician.com/" target="_blank">Yousician</a> offer users flexibility to practice and learn new instruments from the comfort of their homes.
 
 _<b>The possibilities are endless!</b><br>_
 <br>
