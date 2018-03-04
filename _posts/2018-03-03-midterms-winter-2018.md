@@ -11,7 +11,7 @@ lang: en_US
 lead: Where Time Stands Still...
 categories: journal
 tags: univeristy study midterms winter semester 2018
-published: true
+published: false
 ---
 
 <b>T</b>he past two-three weeks were pretty painful. It’s mid-semester, all our lab reports and assignments are due before reading week. Once we're back, it’s back-to-back midterms for four consecutive days including Saturday. Since this semester’s exams were all planned the week after reading week, instead of working on side projects or honing a hobby/craft, even resting, no, we are stuck cramming and studying day and night. Again, all side projects, blogging, producing and pretty much anything fun comes to a halt. It’s just how it is during midterms and finals.
