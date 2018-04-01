@@ -45,3 +45,13 @@ Alright then, go ahead and open your <b>terminal</b>.
 3. <b>Initialize Pod in Project Directory</b>
 
     Start by closing any open Xcode project. Then using the <b>terminal</b>, `cd` into your project directory. Initialize a pod file using the following command: `pod init`.
+
+All done!
+
+You can now add any dependency to the pod file created in the project directory. Make sure you edit your pod file in a text editor to avoid syntax issues. Finally, make sure you open your Xcode project with the extension <b>.xcodeproj</b>;  that project now contains all the added packages.
+
+I hope this post helps anyone looking for a quick tutorial or refresher on installing cocopads and incorporating third-party dependencies to their Xcode project.
+
+Cheers!
+
+Anthony A. Nader
