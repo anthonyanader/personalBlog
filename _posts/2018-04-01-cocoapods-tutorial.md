@@ -18,7 +18,7 @@ published: true
 
 > This past week I learned about Cocoapods!
 
-Cocoapods is a dependency manager, similar to NPM for Node but for Xcode. It allows you to search for third-party plugins/components that you would want to add to any of your applications.
+Cocoapods is a dependency manager, similar to NPM for JavaScript but for Xcode. It allows you to search for third-party plugins/components that you would want to add to any of your applications.
 
 Cocoapods allows you to search for:
 
@@ -46,7 +46,9 @@ Alright then, go ahead and open your <b>terminal</b>.
 
     Start by closing any open Xcode project. Then using the <b>terminal</b>, `cd` into your project directory. Initialize a pod file using the following command: `pod init`.
 
-All done!
+<hr style="width:50%; border: 1px solid #EC6F75">
+
+> All done!
 
 You can now add any dependency to the pod file created in the project directory. Make sure you edit your pod file in a text editor to avoid syntax issues. Finally, make sure you open your Xcode project with the extension <b>.xcodeproj</b>;  that project now contains all the added packages.
 
