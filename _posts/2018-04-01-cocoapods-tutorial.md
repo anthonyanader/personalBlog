@@ -8,7 +8,7 @@ author: Anthony A. Nader
 image: cocoapodsTutorial.jpg
 imageSource: Lautaro Andreani
 lang: en_US
-lead: Dependency manager for xCode!
+lead: Dependency manager for Xcode!
 categories: technical
 tags: iOS development tutorials
 published: true
@@ -18,7 +18,7 @@ published: true
 
 > This past week I learned about Cocoapods!
 
-Cocoapods is a dependency manager, similar to NPM for JavaScript but for Xcode. It allows you to search for third-party plugins/components that you would want to add to any of your applications.
+Cocoapods is a dependency manager, similar to NPM for JavaScript but for dde. It allows you to search for third-party plugins/components that you would want to add to any of your applications.
 
 Cocoapods allows you to search for:
 
