@@ -35,3 +35,17 @@ _This blog post will not go into details about the company yet, but it will serv
 The second reason has to do with what I can bring to the table. I was happy to know that my background in digital marketing, sales and management would be beneficial at this stage of the company growth. I was pleased because I did not want to slow down the project coming on board solely as a developer. I have only been coding for the past two years,  and prior to that, I had never read or written a line of code in my life. I wanted to merge my business background to my newly acquired knowledge in software development by being involved in the technical portion as well as the business portion of the company, and there's no better place to do so other than a startup!
 
 For these reasons, I am proud and happy to be part of such initiative!
+
+### Next Steps?
+
+I have spent the last two weeks onboarding; getting familiar with the code, engaging with the people involved, studying competitors, gaining background knowledge. It was all very inspiring because there’s never only one thing to do, but multiple things to do at once. _You are always busy!_ For example, I enjoy working on a bug just as much as drafting our next new aggressive marketing strategy. When I don’t feel like studying, I will be using that downtime to work on a new idea for the business, or I try and implement a new feature. In short, there's always something to do :muscle:
+
+> It’s not only fun, but very productive!
+
+It's go time this summer! We will be working towards booking investor pitches, meeting with government officials all while finalizing our iOS and Android MVPs.
+
+I am really looking forward to growing this company and turning what was once an idea, into a real commercial product/service.
+
+Stay Tuned :wink:
+
+Anthony A. Nader
