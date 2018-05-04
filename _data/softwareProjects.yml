@@ -1,3 +1,18 @@
+- name: "FlavorHub"
+  subtitle: What's Yelp?
+  description: Project | Web Application built in Winter 2018 for a database course. FlavorHub allows users to search for top rated restaurants using a selection of attributes that best suits their needs. We achieved full marks and received an extra 20% bonus marks for best UI interface and design for this application.
+  tags:
+    - React
+    - Node.js
+    - PostgreSQL
+    - Python
+    - Material-UI
+    - React-Router
+    - Flask
+  image:  FlavorHub.jpg
+  github: https://github.com/anthonyanader/flavorHubFrontEnd
+
+
 - name: "TimeBo[AR]d"
   subtitle: We're Git for brainstorming through the medium of Augmented Reality
   description: HackHarvard Fall 2017 Project | Wanting to change the way teams catalog brainstorming sessions, we developed Team Bo[AR]d, a native iOS app, that enables users to collaborate, share and upload a series of 3D whiteboard sessions through Augmented Reality.
