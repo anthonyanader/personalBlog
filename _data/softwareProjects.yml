@@ -1,6 +1,6 @@
 - name: "FlavorHub"
   subtitle: What's Yelp?
-  description: Project | Web Application built in Winter 2018 for a database course. FlavorHub allows users to search for top rated restaurants using a selection of attributes that best suits their needs. We achieved full marks and received an extra 20% bonus marks for best UI interface and design for this application.
+  description: Project | Web Application built in Winter 2018 for a database course. FlavorHub allows users to search for top rated restaurants using a selection of attributes that best suits their needs. Complex and diverse SQL queries were implemented, and are displayed solely on the administrator's dashboard view.
   tags:
     - React
     - Node.js
