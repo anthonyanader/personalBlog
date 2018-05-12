@@ -8,7 +8,7 @@ author: Anthony A. Nader
 image: cocoapodsTutorial.jpg
 imageSource: Lautaro Andreani
 lang: en_US
-lead: Dependency manager for Xcode!
+lead: Dependency manager for Xcode.
 categories: technical
 tags: iOS development tutorials
 published: true
