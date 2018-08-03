@@ -5,8 +5,8 @@ description: Summer semester is finally over.
 permalink: /blog/:categories/:title
 date: 2018-07-31
 author: Anthony A. Nader
-image:
-imageSource:
+image: vacationMode.jpg
+imageSource: AJ Garcia
 lang: en_US
 lead: Finally, a break.
 categories: journal
