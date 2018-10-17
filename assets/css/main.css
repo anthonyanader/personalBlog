@@ -47,7 +47,7 @@ footer .footer-text {
         line-height: 1;
     }
     .card .card-reveal {
-        overflow-y: auto;
+        overflow-y: scroll;
     }
 }
 /***********************
