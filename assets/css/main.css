@@ -46,6 +46,9 @@ footer .footer-text {
         font-size: 2rem;
         line-height: 1;
     }
+    .card .card-reveal {
+        overflow-y: auto;
+    }
 }
 /***********************
         NAVBAR
