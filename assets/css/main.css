@@ -84,6 +84,7 @@ nav .nav-links {
 ***********************/
 .card .card-reveal {
     padding: 30px;
+    overflow-y: hidden;
 }
 .card-reveal p {
     text-align: justify;
