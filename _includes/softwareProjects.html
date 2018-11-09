@@ -5,10 +5,10 @@
                 <img class="activator" src="{{site.baseurl}}/assets/img/projects/{{project.image}}" alt"{{ project.name }}">
             </div>
             <div class="card-content">
-                <span class="card-title activator grey-text text-darken-4">{{ project.name }}<i class="material-icons right">more_vert</i></span>
+                <span class="card-title activator grey-text text-darken-4">{{ project.name }}<i class=" material-icons right">more_vert</i></span>
             </div>
             <div class="card-reveal">
-                <span class="card-title grey-text text-darken-4">{{ project.name }}<i class="hide-on-large-only material-icons right">close</i></span>
+                <span class="card-title grey-text text-darken-4">{{ project.name }}<i class="material-icons right">close</i></span>
                 <p>{{ project.description }}</p>
                 {% for tag in project.tags %}
                 <div id="tags" class="chip">{{ tag }}</div>
