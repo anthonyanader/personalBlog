@@ -2,7 +2,6 @@
 layout: post
 title: Music. Sound. Code.
 description: Growing interest in combining software development, sound, and music.
-permalink: /blog/:categories/:title
 date: 2018-02-06
 author: Anthony A. Nader
 image: newDirection.jpg

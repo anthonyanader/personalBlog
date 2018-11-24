@@ -2,7 +2,6 @@
 layout: post
 title: Cocoapods Tutorial
 description: Reference tutorial to installing Cocoapods!
-permalink: /blog/:categories/:title
 date: 2018-04-01
 author: Anthony A. Nader
 image: cocoapodsTutorial.jpg

@@ -2,7 +2,6 @@
 layout: post
 title: Summer 2018 Summary
 description: Little insight about my month of vacation.
-permalink: /blog/:categories/:title
 date: 2018-08-29
 author: Anthony A. Nader
 image: summerSummary2018.jpg

@@ -2,7 +2,6 @@
 layout: post
 title: Midterms Winter 2018
 description: A blog post dedicated to my three-week hideaway!
-permalink: /blog/:categories/:title
 date: 2018-03-03
 author: Anthony A. Nader
 image: midtermsW2018.jpg

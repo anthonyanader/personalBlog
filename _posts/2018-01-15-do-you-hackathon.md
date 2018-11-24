@@ -2,7 +2,6 @@
 layout: post
 title: Do You Hackathon?
 description: The truth behind Hackathons - and why you should register to one.
-permalink: /blog/:categories/:title
 date: 2018-01-15
 author: Anthony A. Nader
 image: doYouHackathon.jpg

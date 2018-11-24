@@ -2,7 +2,6 @@
 layout: post
 title: Vacation Mode [ON]
 description: Summer semester is finally over.
-permalink: /blog/:categories/:title
 date: 2018-07-31
 author: Anthony A. Nader
 image: vacationMode.jpg
@@ -32,7 +31,7 @@ We have finally released our <a class="pink-hover" href="https://itunes.apple.co
 I will be leaving the country with the family for a week-long vacation to _Jamaica_. I had the opportunity to go there last year with some good friends. This year I want to have the chance to go with my family since I see them only a few times a year. Also, I want to dedicate some playtime to World of Warcraft's new expansion: <a class="pink-hover" href="https://worldofwarcraft.com/en-us/battle-for-azeroth" target="_blank">Battle for Azeroth</a>. I started playing vanilla wow religiously back in 2004. However, now, I am only a casual returning player for new expansions, or when I have some serious time-off, it helps me cool the brain. I learned that they will be bringing back vanilla servers which is going to be super exciting and nostalgic - can't wait to see how that's going to turn out!
 
 
-> That's it for July! 
+> That's it for July!
 
 I hope the next few weeks don't fly back as quickly as I think they will :worried: Regardless, I will try to enjoy the next month as much as I can. I will be writing a more technical blog post for August that discusses the technology I have decided to learn.
 
