@@ -1,14 +1,18 @@
 - name: "Kali-Visuals"
   subtitle: Sentiment Analysis Monitoring
-  description: Project | React Web Application built in Fall 2018. Allows users to create an account, add any hashtag and duration, and monitor the sentiment of those tags over time! A beautiful dashboard that transforms data into insightful sentiment analysis metrics in real-time. Driven by data from the Twitter API, and powered by Google Cloud Platform.
+  description: Project | React Web Application built in Fall 2018. Allows users to create an account, add any hashtag and duration, and monitor the sentiment of those tags over time on a beautiful dashboard! Driven by data from the Twitter API, and powered by Google Cloud Platform.
+
   tags:
     - React
+    - Node.js
     - Firebase Auth
     - Firebase DB
     - Cloud Functions
     - AFINN Sentiment Library
+    
   image:  kaliVisuals.jpg
   github: https://github.com/anthonyanader/kaliVisuals
+  heroku: https://kali-visuals.herokuapp.com/
 
 - name: "LooT"
   subtitle: Clutter Management
