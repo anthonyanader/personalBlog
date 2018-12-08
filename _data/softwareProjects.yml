@@ -6,7 +6,7 @@
     - Firebase Auth
     - Firebase DB
     - Cloud Functions
-    - AFINN Sentiment
+    - AFINN Sentiment Library
   image:  kaliVisuals.jpg
   github: https://github.com/anthonyanader/kaliVisuals
 
