@@ -8,7 +8,7 @@
     - Cloud Functions
     - AFINN Sentiment
   image:  kaliVisuals.jpg
-  github:
+  github: https://github.com/anthonyanader/kaliVisuals
 
 - name: "LooT"
   subtitle: Clutter Management
