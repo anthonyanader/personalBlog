@@ -1,3 +1,15 @@
+- name: "Kali-Visuals"
+  subtitle: Sentiment Analysis Monitoring
+  description: Project | React Web Application built in Fall 2018. Allows users to create an account, add any hashtag and duration, and monitor the sentiment of those tags over time! A beautiful dashboard that transforms data into insightful sentiment analysis metrics in real-time. Driven by data from the Twitter API, and powered by Google Cloud Platform.
+  tags:
+    - React
+    - Firebase Auth
+    - Firebase DB
+    - Cloud Functions
+    - AFINN Sentiment
+  image:  kaliVisuals.jpg
+  github:
+
 - name: "LooT"
   subtitle: Clutter Management
   description: Project | Native Android Applcation built in Summer 2018 for a UI course. LooT attaches a 365-day timer, counting down, to an item that a user believes they will use. Once the timer elapses, the user will be notified and prompted with the opportunity to sell, donate or recycle the item directly through the app.
