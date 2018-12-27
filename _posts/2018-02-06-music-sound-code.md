@@ -7,7 +7,7 @@ author: Anthony A. Nader
 image: newDirection.jpg
 imageSource: Danielle MacInnes
 lang: en_US
-lead: I've set myself on a new journey...
+lead: Let's merge these fields.
 categories: journal
 tags: swift audio sound production meetup community music goals objectives
 published: true
