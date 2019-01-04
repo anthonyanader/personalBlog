@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summer 2018 Summary
+title: Summer Recap
 description: Little insight about my month of vacation.
 date: 2018-08-29
 author: Anthony A. Nader
