@@ -13,7 +13,7 @@ tags: university waterloo HackTheNorth hackathon python react JavaScript node fi
 published: true
 ---
 
-<b>K</b>icked off the 2018 hackathon season by attending <a class="pink-hover" href="https://hackthenorth.com/" target="_blank">#HackTheNorth</a> with my good friends Filip and Kyle. We bounced ideas; build a new feature for Neappoli that would include a new Resident Management System (RMS) for councilors, or take a completely different direction and create something unrelated to our company.
+<b>K</b>icked off the 2018 hackathon season by attending <a class="pink-hover" href="https://hackthenorth.com/" target="_blank">#HackTheNorth</a> with my good friends Filip and Kyle. We bounced ideas; build a new feature for Neappoli that would include a new Resident Management System (RMS) for councilors, or take a completely different direction and create something unrelated to our company :thought_balloon:
 
 > _Hackathon opportunity == create something independent from Neappoli._
 
