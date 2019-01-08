@@ -20,7 +20,7 @@ published: true
 
 We had initially decided to work on a project involving Spotify and the ability to mix and sync songs in a playlist based on the <b>user's jogging speed</b>. The iOS application would mix each track in a playlist to match the BPM of the jogging speed, using the Apple Watch sensors, creating a continous and seamless flow of music adapted to the user's activity. However, this project would have required much more effort than 36 hours and we wouldn't have been able to present a demo on time.
 
-We finally settled on building a web application that would make networking engaging, easy and fun. We want to remove that shyness barrier, providing people with an easier time connecting with others around them during networking events.
+We finally settled on building a web application that would make networking engaging, easy and fun. Our goal was to remove that shyness barrier, providing people with an easier time connecting with others around them during networking events.
 
 ### What we built
 
@@ -38,20 +38,28 @@ Building our own authentication mechanisms by storing username, passwords, cooki
 
 <b>Firebase Realtime Database – Database Solution</b>
 
-Firebase’s real-time database is a NoSQL, cloud-based technology that allows data to be synchronized across different devices, and several accounts while keeping the data available if the application goes offline. It is best suited for real-time data and event-based changes occurring in the backend. The choice for this database allows our modern web application to scale to very quickly while keeping responsiveness and access time extremely fast independent of connectivity. It works perfect to track users positions in realtime.
+Firebase’s real-time database is a NoSQL, cloud-based technology that allows data to be synchronized across different devices, and several accounts while keeping the data available if the application goes offline. It is best suited for real-time data and event-based changes occurring in the backend. Choosing this solution as database allowed our modern web application to scale very quickly while keeping responsiveness and access time extremely fast and independent of connectivity. It works perfect to track a user's position in realtime.
 
 
-<b>React</b>
+<b>React – Single Page Application Solution</b>
 
-Create-react-app CLI was used to bootstrap the initial setup of react project. It is really quick to get react up and running because it configures all the necessary dependencies, structures the folder and sets up Webpack (module bundler) before starting any development work. Once the structure and the initial scaffolding is in place, it was time to break down the UI and several components; react uses a single responsibility paradigm where each component is responsible for its functions and state.
+<a class="pink-hover" href="https://github.com/facebook/create-react-app" target="_blank">Create-react-app CLI</a> was used to bootstrap the initial setup of react project. It is really quick to get react up and running because it configures all the necessary dependencies, structures the folder and sets up Webpack (module bundler) before starting any development work. Once the structure and the initial scaffolding is in place, it was time to break down the UI and several components; react uses a single responsibility paradigm where each component is responsible for its functions and state.
+
+We quickly setup the prototype UI, integrated the map functionality and geo-positioned the avatars on the map.
 
 
-### Cool things that happened
+### Memorable Moment
 
-> _No random fruit name generator, so I coded one!_
+> _No random fruit name generator library; so I coded one!_
 
-I searched and searched for a library that would randomly generate an adjective and a fruit name as the display name of our new users. I couldn't find anything! I decided to create my own. Using Python, I parsed the name of several fruits of the interest, wrote a program that concatenated cool adjectives to fruit names and exported the results into a JSON that I placed in the DB.
+I searched and searched for a library that would randomly generate an adjective attached to a fruit name so we can create unique display names for our new users. I couldn't find anything! I decided to create my own. Using Python, I parsed the name of several fruits of the interest, wrote a program that concatenated cool adjectives to fruit names and exported the results into a JSON that I placed in the DB. The result is a random fruit name generator that anyone can use to create cool, unique display names for their prototype application.
 
 ### Parting Words
 
-It was 
+Hack the North has always been one of my favorite hackathons in the world. I have been lucky enough to attend HackHarvard last year and ConUHacks, and I still believe Hack the North's organization, the variety of talks/workshops and the quality of attendants is far superior to anything else I have attended.
+
+Lastly, I think that I will be attending only one hackathon per year, during the summer, or fall since it is a very draining weekend; it takes a full week afterward just to recuperate.
+
+Cheers!
+
+Anthony
