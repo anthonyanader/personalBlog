@@ -58,7 +58,7 @@ I searched and searched for a library that would randomly generate an adjective 
 
 Hack the North has always been one of my favorite hackathons in the world. I have been lucky enough to attend HackHarvard last year and ConUHacks, and I still believe Hack the North's organization, the variety of talks/workshops and the quality of attendants is far superior to anything else I have attended.
 
-Lastly, I think that I will be attending only one hackathon per year, during the summer, or fall since it is a very draining weekend; it takes a full week afterward just to recuperate.
+Lastly, I think that I will be attending only one hackathon per year, during the summer, or fall since it is a very draining weekend; it takes a full week afterward just to recuperate. However, on the upside is that I got to meet so many talented individuals, in different fields, creating some of the coolest technologies I had ever seen. I highly recommend attending a hackathon at least once to understand and live this awesome experience!
 
 Cheers!
 
