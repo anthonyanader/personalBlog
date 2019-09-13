@@ -1,3 +1,21 @@
+- name: "Novawave.io"
+  subtitle: Sentiment Analysis Monitoring
+  description: Project | React Web Application built in 2019. Gathers user data from social media (Facebook, Twitter) and streaming services (Soundcloud, Spotify) to power a dashboard providing relevant metrics and key indicators of the artist’s placement and growth within the industry.
+
+  tags:
+    - React
+    - Redux
+    - Node.js
+    - Firebase
+    - Jest
+    - Cloud Functions
+    - Travis CI
+    - Enzyme
+
+  image:  novaWave.jpg
+  github: https://github.com/anthonyanader/NovaWave/
+  website: http://novawave.io
+
 - name: "Kali-Visuals"
   subtitle: Sentiment Analysis Monitoring
   description: Project | React Web Application built in Fall 2018. Allows users to create an account, add any hashtag and duration, and monitor the sentiment of those tags over time on a beautiful dashboard! Driven by data from the Twitter API, and powered by Google Cloud Platform.
